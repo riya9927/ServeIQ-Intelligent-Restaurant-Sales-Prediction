@@ -34,7 +34,7 @@ Prepare the data for further exploration by loading, inspecting, and merging dat
 - Created a unified DataFrame with the following columns:
   - `date`, `item_id`, `item_name`, `store_id`, `store_name`, `kcal`, `cost`, `item_count`, `price`
   - 
-#### 2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 #####  a. Date-wise Sales Trend
 - Aggregated total sales over time
 - Visualized sales trends using line plots
