@@ -62,7 +62,7 @@ Prepare the data for further exploration by loading, inspecting, and merging dat
 ##### Interactive Dashboard
 Explore the sales trends and forecasts interactively using our Streamlit app:
 
-[ServeIQ Sales Forecasting Dashboard](https://serveiq-intelligent-restaurant-sales-prediction.streamlit.app/)
+[ServeIQ Sales Forecasting Dashboard](https://serveiq-intelligent-restaurant-sales-prediction-data-analytics.streamlit.app/)
 
 
 
