@@ -8,7 +8,7 @@ st.set_page_config(page_title="ServeIQ Dashboard", layout="wide")
 st.title("📊 ServeIQ Sales Analytics Dashboard")
 
 # Load merged dataset
-merged_df = pd.read_csv("C:/Users/Riya/jupyter notebook/Capstone/merged_data.csv")
+merged_df = pd.read_csv("merged_data.csv")
 merged_df['date'] = pd.to_datetime(merged_df['date'])
 merged_df['total_sales'] = merged_df['price'] * merged_df['item_count']
 
